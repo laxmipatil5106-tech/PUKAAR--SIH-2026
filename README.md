@@ -31,6 +31,16 @@
 
 ---
 
+## 👩‍💻 My Contribution
+
+I contributed to **Pukaar** through **idea development and frontend implementation**.
+
+* Contributed to the initial **idea generation and problem-solving approach** behind the emergency response platform.
+* Worked on the **frontend development and user interface**, helping design and implement the user-facing screens and overall application flow.
+* Contributed to making the emergency interaction flow simple, accessible, and easy to navigate for users.
+* Worked collaboratively with the team to integrate the frontend with the project's emergency-response features.
+
+
 ## 📂 Architecture & Project Structure
 
 ```
